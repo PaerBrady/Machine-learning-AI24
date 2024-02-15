@@ -1,6 +1,6 @@
 # Week 7 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
 
 ---
 ## Setup :wrench:
@@ -16,8 +16,7 @@
 ## Video guides :video_camera:
 
 - [Simple linear regression intuition](https://www.youtube.com/watch?v=HoqXask9cN8)
-- [Simple linear regression Andrew Ng](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLJs7lEb1U5pYnrI0Wn4mzPmppVqwERL_4)
-- [Gradient descent Andrew Ng](https://www.youtube.com/watch?v=F6GSRDoB-Cg)
+
 
 ### Video lectures - ISLR
 - [Linear regression part 1 - ISLR](https://www.youtube.com/watch?v=7TgVO_K75EY&list=PLAOUn-KLSAVNcA7Gq4Hbt7wStqgazAkAN)
@@ -29,8 +28,8 @@
 ---
 ## Lecture notes :book:
 
-- [Linear regression](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L0-Linear_regression.ipynb)
-- [Gradient descent](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L1-Gradient_descent.ipynb)
+- [Linear regression](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L0-Linear_regression.ipynb)
+
 
 ---
 ## Theory :book:
@@ -39,15 +38,13 @@
 - [Linear regression - wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
 - [Numpy polyfit](https://numpy.org/doc/stable/reference/generated/numpy.polyfit.html)
 - [Seaborn regplot](https://seaborn.pydata.org/generated/seaborn.regplot.html)
-- [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
-- [Stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 - [Data leakage wikipedia](<https://en.wikipedia.org/wiki/Leakage_(machine_learning)>)
 - [Scaling data machine learning mastery](https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/)
 - [Sklearn min-max scaler](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
 
 ---
 ## Exercises :running:
-- [Linear regression](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E00_linear_regression.ipynb)
-- [Gradient descent](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E01_gradient_descent.ipynb)
+- [Linear regression](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E00_linear_regression.ipynb)
+
 
 ---
