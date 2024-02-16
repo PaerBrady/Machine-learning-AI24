@@ -6,16 +6,16 @@
 ## Video guides :video_camera:
 - [Cross-validation](https://www.youtube.com/watch?v=TIgfjmp-4BA)
 - [Overfitting - ISLR](https://www.youtube.com/watch?v=HndOzII4jzs)
-- [Regularization overfitting - Andrew Ng](https://www.youtube.com/watch?v=u73PU6Qwl1I)
-- [Regularization cost function - Andrew Ng](https://www.youtube.com/watch?v=KvtGD37Rm5I)
-- [Regularization linear regression - Andrew Ng](https://www.youtube.com/watch?v=qbvRdrd0yJ8)
+- [Regularization overfitting - Andrew Ng](https://www.youtube.com/watch?v=OSd30QGMl88)
+- [Regularization cost function - Andrew Ng](https://www.youtube.com/watch?v=3NXspPcl3u4)
+- [Regularization linear regression - Andrew Ng](https://www.youtube.com/watch?v=GhXojUkyIkQ)
 - [Bias-variance tradeoff - professor Ryan](https://www.youtube.com/watch?v=1JWpXHgqj54)
 
 ---
 ## Lecture notes :book:
-- [Scikit-learn](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L2-scikit-learn.ipynb)
-- [Overfitting & underfitting](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
-- [Regularized linear models](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
+- [Scikit-learn](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L2-scikit-learn.ipynb)
+- [Overfitting & underfitting](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
+- [Regularized linear models](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
 
 ---
 ## Theory :book:
@@ -53,6 +53,6 @@ References for lecture - Regularized linear models
 ---
 ## Exercises :running:
 
-- [scikit-learn exercises](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E02_sklearn.ipynb)
+- [scikit-learn exercises](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E02_sklearn.ipynb)
 
-- [Overfit and regularization](https://github.com/kokchun/Machine-learning-AI22/blob/main/Exercises/E03_overfit_regularization.ipynb)
+- [Overfit and regularization](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E03_overfit_regularization.ipynb)
