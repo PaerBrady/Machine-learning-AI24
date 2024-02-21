@@ -37,6 +37,8 @@ References for lecture - Overfitting & underfitting
 - [6.3.7 Generating polynomial features](https://scikit-learn.org/stable/modules/preprocessing.html#polynomial-features)
 - [Bias-variance tradeoff towards datascience](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
 - [Bias-variance tradeoff wikipedia](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+- [Bias-variance detailed explanation](https://mlu-explain.github.io/bias-variance/)
+- [Bias-variance essay (by Scott Fortmann-Roe)](https://scott.fortmann-roe.com/docs/BiasVariance.html)
 
 References for lecture - Regularized linear models
 - [Regularized linear models medium](https://medium.com/analytics-vidhya/regularized-linear-models-in-machine-learning-d2a01a26a46)
