@@ -1,6 +1,6 @@
 # Week 10 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
 
 ---
 ## Video guides :video_camera:
@@ -36,7 +36,7 @@
 - [Pipeline user guide - sklearn](https://scikit-learn.org/stable/modules/compose.html#pipeline)
 
 **SVM:**
-- [ISLRv2 chapter 9, pp. 367-387](https://www.statlearning.com/)
+- [ISLP chapter 9, pp. 374-394](https://www.statlearning.com/)
 - [Stödvektormaskin wikipedia](https://sv.wikipedia.org/wiki/St%C3%B6dvektormaskin)
 - [Support vector machine wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
 - [Kernel trick wikipedia](https://en.wikipedia.org/wiki/Kernel_method#Mathematics:_the_kernel_trick)
@@ -45,13 +45,13 @@
 - [SVM machine learning mastery](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
 **Decision Tree**
-- [ISLRv2 chapter 8.1 pp. 327-339](https://link)
+- [ISLP chapter 8 pp. 338-350](https://link)
 - [DecisionTreeClassifier sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
 - [DecisionTreeRegressor sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor)
 - [Decision trees sklearn theory](https://scikit-learn.org/stable/modules/tree.html)
 - [Decision tree learning wikipedia](https://en.wikipedia.org/wiki/Decision_tree_learning)
 - [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
-- [ISLRv2 pp. 327-352](https://www.statlearning.com/)
+
 
 ---
 ## Exercises :running:
