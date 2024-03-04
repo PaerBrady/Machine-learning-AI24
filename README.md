@@ -25,7 +25,7 @@ This course mostly focuses on supervised learning, both regression and classific
 | [10][w4] | GridsearchCV, SVM, **lab**                                             |
 | [11][w5] | Descision tree, Random forest, NLP intro, Naive bayes, **lab**         |
 | [12][w6] | **Unsupervised:** K-means, PCA **lab**                                 |
-| [13][w7] | ANN intro, Repetition **lab** *inlämning*                               |
+| [13][w7] | ANN intro, Repetition **lab** *feedback, komplettering*                 |
 | [14][w8] | Repetition, Exam (tuesday)                                              |
 | [15][w9] | Apply for LIA, self-study, re-exams on other courses                    |
 
