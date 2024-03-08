@@ -5,7 +5,8 @@
 
 ## Lecture notes :book:
 
-- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L1-Gradient_descent.ipynb)
+- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L14-Gradient_descent.ipynb)
+- [NLP intro](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Extras-NLP_intro.ipynb)
 
 ---
 ## Video guides :video_camera:
@@ -15,6 +16,7 @@
 
 ---
 ## Theory :book:
+
 - [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
 - [Stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 - [Neural networks - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
@@ -24,6 +26,16 @@
 - [Multilayer perceptron (MLP) - wikipedia](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Rectifier (neural networks) - wikipedia](https://en.wikipedia.org/wiki/Rectifier_(neural_networks))
 - [Biological neuron model - wikipedia](https://en.wikipedia.org/wiki/Biological_neuron_model)
+
+## Extras
+- [Bag-of-words model - wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model)
+- [TF-IDF - wikipedia](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+- [Sparse matrix - wikipedia](https://en.wikipedia.org/wiki/Sparse_matrix)
+- [Bag-of-words - sklearn](https://scikit-learn.org/stable/modules/feature_extraction.html?highlight=tfidf#text-feature-extraction)
+- [CountVectorizer - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html?highlight=countvectorizer#sklearn.feature_extraction.text.CountVectorizer)
+- [TfidfTransformer - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html?highlight=tfidftransformer#sklearn.feature_extraction.text.TfidfTransformer)
+- [Tfidfvectorizer - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+- [Sparse matrix - SciPy](https://docs.scipy.org/doc/scipy/reference/sparse.html)
 
 ---
 ## Exercises :running:
