@@ -10,8 +10,8 @@
     här kortare rapport.
 
 · Modell
-    Beskriv algoritmer/modell du annvänt samt vilka (hyper-)parametrar du använt. 
-    Nämn alla modeller ni använder, men beskriv i detalj bara den du faktiskt
+    Beskriv algoritmer/modell du använt samt vilka (hyper-)parametrar du använt. 
+    Nämn alla modeller du använder, men beskriv i detalj bara den du faktiskt
     använder i slutändan (den som var bäst).
 
 · Resultat
