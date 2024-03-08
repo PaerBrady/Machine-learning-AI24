@@ -5,11 +5,6 @@
 ---
 ## Video guides :video_camera:
 
-**SVM:**
-- [SVM part 1 - ISLR](https://www.youtube.com/watch?v=m59UOo5jAFU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw)
-- [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
-- [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
-- [SVM part 4 - ISLR](https://www.youtube.com/watch?v=6EFgNdwpB7s&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=4)
 
 **Decision tree:**
 - [Decision tree classification - Normalized Nerd](https://www.youtube.com/watch?v=ZVR2Way4nwQ)
@@ -29,15 +24,6 @@
 - [Pipeline docs - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 - [GridSearchCV user guide - sklearn](https://scikit-learn.org/stable/modules/grid_search.html#grid-search)
 - [Pipeline user guide - sklearn](https://scikit-learn.org/stable/modules/compose.html#pipeline)
-
-**SVM:**
-- [ISLP chapter 9, pp. 374-394](https://www.statlearning.com/)
-- [Stödvektormaskin wikipedia](https://sv.wikipedia.org/wiki/St%C3%B6dvektormaskin)
-- [Support vector machine wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
-- [Kernel trick wikipedia](https://en.wikipedia.org/wiki/Kernel_method#Mathematics:_the_kernel_trick)
-- [SVM sklearn theory](https://scikit-learn.org/stable/modules/svm.html)
-- [Support vector classifier sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
-- [SVM machine learning mastery](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
 **Decision Tree**
 - [ISLP chapter 8 pp. 338-350](https://link)
