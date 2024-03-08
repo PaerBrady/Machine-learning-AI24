@@ -1,6 +1,6 @@
 # Week 11 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
 
 ---
 ## Video guides :video_camera:
@@ -10,9 +10,9 @@
 
 ---
 ## Lecture notes :book:
-- [Random forest](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
-- [NLP intro](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec11-NLP_intro.ipynb)
-- [Naive Bayes](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec12-Naive_bayes.ipynb)
+- [Random forest](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
+- [NLP intro](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec11-NLP_intro.ipynb)
+- [Naive Bayes](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec12-Naive_bayes.ipynb)
 
 ---
 ## Theory :book:

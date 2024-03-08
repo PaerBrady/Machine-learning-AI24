@@ -1,21 +1,17 @@
 # Week 12 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
 
 ---
 ## Video guides :video_camera:
-- [Clustering, unsupervised learning - Andrew Ng](https://www.youtube.com/watch?v=Ev8YbxPu_bQ)
-- [k-means - Andrew Ng](https://www.youtube.com/watch?v=hDmNF9JG3lo)
-- [PCA - Andrew Ng](https://www.youtube.com/watch?v=rng04VJxUt4)
-- [Dimension reduction - data compression - Andrew Ng](https://www.youtube.com/watch?v=Zbr5hyJNGCs)
-- [Dimension reduction - data visualization - Andrew Ng](https://www.youtube.com/watch?v=cnCzY5M3txk)
+Letar ersättningsvideor för Andrew Ngs videor, TBD
 
 ---
 ## Lecture notes :book:
 
-- [k-means lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec13-KMeans.ipynb)
-- [Color quantization with k-means lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec13.1-KMeans_color.ipynb)
-- [PCA lecture](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/Lec14-PCA.ipynb)
+- [k-means lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec13-KMeans.ipynb)
+- [Color quantization with k-means lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec13.1-KMeans_color.ipynb)
+- [PCA lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec14-PCA.ipynb)
 
 ---
 ## Theory :book:

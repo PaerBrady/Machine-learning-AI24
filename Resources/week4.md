@@ -6,11 +6,6 @@
 ## Video guides :video_camera:
 
 **SVM:**
-- [SVM part 1 optimization objective - Andrew Ng](https://www.youtube.com/watch?v=hCOIMkcsm_g)
-- [SVM part 2 large margin - Andrew Ng](https://www.youtube.com/watch?v=Ccje1EzrXBU)
-- [SVM part 3 large margin math - Andrew Ng](https://www.youtube.com/watch?v=QKc3Tr7U4Xc)
-- [SVM part 4 kernels I - Andrew Ng](https://www.youtube.com/watch?v=mTyT-oHoivA)
-- [SVM part 5 kernels II - Andrew Ng](https://www.youtube.com/watch?v=XfyR_49hfi8)
 - [SVM part 1 - ISLR](https://www.youtube.com/watch?v=m59UOo5jAFU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw)
 - [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
 - [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
@@ -22,9 +17,9 @@
 
 ---
 ## Lecture notes :book:
-- [GridsearchCV](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
-- [SVM](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L8-SVM.ipynb)
-- [Decision tree](https://github.com/kokchun/Machine-learning-AI22/blob/main/Lecture_code/L9-Decision_tree.ipynb)
+- [GridsearchCV](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
+- [SVM](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L8-SVM.ipynb)
+- [Decision tree](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L9-Decision_tree.ipynb)
 
 ---
 ## Theory :book:

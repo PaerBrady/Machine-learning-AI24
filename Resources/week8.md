@@ -1,5 +1,5 @@
 # Week 14 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
 
 See previous weeks for resources for repetition. Also do the study questions and old exam. Exam is on Friday.
