@@ -10,6 +10,8 @@
 - [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
 - [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
 - [SVM part 4 - ISLR](https://www.youtube.com/watch?v=6EFgNdwpB7s&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=4)
+- [SVM in 2 min](https://www.youtube.com/watch?v=_YPScrckx28)
+- [SVM Kernel Trick](https://www.youtube.com/watch?v=Q7vT0--5VII)
 - [Random forest](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
 
 
@@ -27,7 +29,7 @@
 - [Tune hyperparameters - towardsdatascience](https://towardsdatascience.com/random-forest-hyperparameters-and-how-to-fine-tune-them-17aee785ee0d)
 - [Random forest - wikipedia](https://en.wikipedia.org/wiki/Random_forest)
 - [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
-- [ISLRv2 pp. 327-352](https://www.statlearning.com/)
+- [ISLP pp. 353-354](https://www.statlearning.com/)
 
 
 **SVM:**
@@ -47,7 +49,7 @@
 - [Multinomial Naive Bayes](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html#sklearn.naive_bayes.MultinomialNB)
 - [Complement Naive Bayes - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html#sklearn.naive_bayes.ComplementNB)
 - [VotingClassifier - sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.VotingClassifier.html)
-- [ISLRv2 pp 153-158](https://www.statlearning.com/)
+- [ISLP pp 158-161](https://www.statlearning.com/)
 
 ---
 ## Exercises :running:
