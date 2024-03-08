@@ -13,7 +13,6 @@
 ---
 ## Lecture notes :book:
 - [GridsearchCV](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
-- [SVM](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L8-SVM.ipynb)
 - [Decision tree](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L9-Decision_tree.ipynb)
 
 ---

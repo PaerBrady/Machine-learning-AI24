@@ -19,6 +19,8 @@
 ## Lecture notes :book:
 - [Random forest](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
 - [Naive Bayes](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec12-Naive_bayes.ipynb)
+- [SVM](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L8-SVM.ipynb)
+
 
 ---
 ## Theory :book:
