@@ -28,6 +28,7 @@
 - [Biological neuron model - wikipedia](https://en.wikipedia.org/wiki/Biological_neuron_model)
 
 ## Extras
+- [TF-IDF](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
 - [Bag-of-words model - wikipedia](https://en.wikipedia.org/wiki/Bag-of-words_model)
 - [TF-IDF - wikipedia](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 - [Sparse matrix - wikipedia](https://en.wikipedia.org/wiki/Sparse_matrix)

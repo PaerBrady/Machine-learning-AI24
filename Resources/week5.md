@@ -6,7 +6,11 @@
 ## Video guides :video_camera:
 
 - [Random forest](https://www.youtube.com/watch?v=v6VJ2RO66Ag)
-- [TF-IDF](https://www.youtube.com/watch?v=4vT4fzjkGCQ)
+- [SVM part 1 - ISLR](https://www.youtube.com/watch?v=m59UOo5jAFU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw)
+- [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
+- [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
+- [SVM part 4 - ISLR](https://www.youtube.com/watch?v=6EFgNdwpB7s&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=4)
+
 
 ---
 ## Lecture notes :book:
@@ -23,6 +27,16 @@
 - [Random forest - wikipedia](https://en.wikipedia.org/wiki/Random_forest)
 - [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
 - [ISLRv2 pp. 327-352](https://www.statlearning.com/)
+
+
+**SVM:**
+- [ISLRv2 chapter 9, pp. 367-387](https://www.statlearning.com/)
+- [Stödvektormaskin wikipedia](https://sv.wikipedia.org/wiki/St%C3%B6dvektormaskin)
+- [Support vector machine wikipedia](https://en.wikipedia.org/wiki/Support-vector_machine)
+- [Kernel trick wikipedia](https://en.wikipedia.org/wiki/Kernel_method#Mathematics:_the_kernel_trick)
+- [SVM sklearn theory](https://scikit-learn.org/stable/modules/svm.html)
+- [Support vector classifier sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html)
+- [SVM machine learning mastery](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
 
 **Naive Bayes**
 - [Naive Bayes spam filtering - wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_spam_filtering)
