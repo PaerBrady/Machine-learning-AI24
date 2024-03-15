@@ -17,6 +17,7 @@
 ## Lecture notes :book:
 - [Random forest](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
 - [Naive Bayes](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec11-Naive_bayes.ipynb)
+- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L14-Gradient_descent.ipynb)
 
 ---
 ## Theory :book:

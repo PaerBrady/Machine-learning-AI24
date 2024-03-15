@@ -5,7 +5,6 @@
 
 ## Lecture notes :book:
 
-- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L14-Gradient_descent.ipynb)
 - [NLP intro](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Extras-NLP_intro.ipynb)
 
 ---
