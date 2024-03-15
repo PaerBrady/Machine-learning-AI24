@@ -10,15 +10,13 @@
 
 ---
 ## Video guides :video_camera:
-- [Gradient descent - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 - [What is neural network - 3Blue1Brown](https://www.youtube.com/watch?v=aircAruvnKk)
 - [Neural networks explained in 5 minutes - IBM](https://www.youtube.com/watch?v=jmmW0F0biz0)
 
 ---
 ## Theory :book:
 
-- [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
-- [Stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
+
 - [Neural networks - Michael Nielsen](http://neuralnetworksanddeeplearning.com/chap1.html)
 - [Percecptron - wikipedia](https://en.wikipedia.org/wiki/Perceptron)
 - [Universal approximator theorem - wikipedia](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
@@ -40,7 +38,6 @@
 
 ---
 ## Exercises :running:
-- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E01_gradient_descent.ipynb)
 - work with the study questions 
 - work with mock exam
 

@@ -10,6 +10,7 @@
 - [SVM part 2 - ISLR](https://www.youtube.com/watch?v=_TR28WOymkE&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=2)
 - [SVM part 3 - ISLR](https://www.youtube.com/watch?v=ooYwHNvH-YU&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=3)
 - [SVM part 4 - ISLR](https://www.youtube.com/watch?v=6EFgNdwpB7s&list=PLAOUn-KLSAVOf4Uk-WbLGPUDFjMSyytkw&index=4)
+- [Gradient descent - 3Blue1Brown](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 
 
 ---
@@ -28,6 +29,9 @@
 - [Lecture slides chapter 8 - ISLR](https://hastie.su.domains/ISLR2/Slides/Ch8_Tree_Based_Methods.pdf)
 - [ISLRv2 pp. 327-352](https://www.statlearning.com/)
 
+**Gradient Descent:**
+- [Gradient descent wikipedia (GD)](https://en.wikipedia.org/wiki/Gradient_descent)
+- [Stochastic gradient descent (SGD)](https://en.wikipedia.org/wiki/Stochastic_gradient_descent)
 
 **SVM:**
 - [ISLRv2 chapter 9, pp. 367-387](https://www.statlearning.com/)
@@ -50,4 +54,5 @@
 
 ---
 ## Exercises :running:
+- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E01_gradient_descent.ipynb)
 Work with the lab
