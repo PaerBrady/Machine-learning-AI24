@@ -1,6 +1,6 @@
 # Week 9 - Resources
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ---
 ## Video guides :video_camera:
@@ -11,8 +11,8 @@
 ---
 ## Lecture notes :book:
 
-- [Logistic regression lecture note](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L5-Logistic-regression.ipynb)
-- [KNN lecture note](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L6-KNN.ipynb)
+- [Logistic regression lecture note](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L5-Logistic-regression.ipynb)
+- [KNN lecture note](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L6-KNN.ipynb)
 
 ---
 ## Theory :book:
@@ -35,5 +35,5 @@ KNN
 
 ---
 ## Exercises :running:
-- [Logistic regression exercises](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E04_logistic_regression.ipynb)
-- [KNN exercises](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E05_KNN.ipynb)
+- [Logistic regression exercises](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E04_logistic_regression.ipynb)
+- [KNN exercises](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E05_KNN.ipynb)

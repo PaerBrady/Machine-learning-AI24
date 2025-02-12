@@ -1,6 +1,6 @@
 # Week 7 - Resources
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ---
 ## Setup :wrench:
@@ -28,7 +28,7 @@
 ---
 ## Lecture notes :book:
 
-- [Linear regression](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L0-Linear_regression.ipynb)
+- [Linear regression](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L0-Linear_regression.ipynb)
 
 
 ---
@@ -44,7 +44,7 @@
 
 ---
 ## Exercises :running:
-- [Linear regression](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E00_linear_regression.ipynb)
+- [Linear regression](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E00_linear_regression.ipynb)
 
 
 ---

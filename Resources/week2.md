@@ -1,6 +1,6 @@
 # Week 8 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/kokchun/Machine-learning-AI24)
 
 ---
 ## Video guides :video_camera:
@@ -13,9 +13,9 @@
 
 ---
 ## Lecture notes :book:
-- [Scikit-learn](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L2-scikit-learn.ipynb)
-- [Overfitting & underfitting](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
-- [Regularized linear models](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
+- [Scikit-learn](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L2-scikit-learn.ipynb)
+- [Overfitting & underfitting](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
+- [Regularized linear models](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L3-overfitting-underfitting.ipynb)
 
 ---
 ## Theory :book:
@@ -54,6 +54,6 @@ References for lecture - Regularized linear models
 ---
 ## Exercises :running:
 
-- [scikit-learn exercises](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E02_sklearn.ipynb)
+- [scikit-learn exercises](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E02_sklearn.ipynb)
 
-- [Overfit and regularization](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E03_overfit_regularization.ipynb)
+- [Overfit and regularization](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E03_overfit_regularization.ipynb)

@@ -1,11 +1,11 @@
 # Week 13 - Resources
 
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ## Lecture notes :book:
 
-- [NLP intro](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Extras-NLP_intro.ipynb)
+- [NLP intro](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Extras-NLP_intro.ipynb)
 
 ---
 ## Video guides :video_camera:

@@ -1,6 +1,6 @@
 # Week 11 - Resources
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ---
 ## Video guides :video_camera:
@@ -15,9 +15,9 @@
 
 ---
 ## Lecture notes :book:
-- [Random forest](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
-- [Naive Bayes](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec11-Naive_bayes.ipynb)
-- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L14-Gradient_descent.ipynb)
+- [Random forest](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Lec10-RandomForest.ipynb)
+- [Naive Bayes](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Lec11-Naive_bayes.ipynb)
+- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L14-Gradient_descent.ipynb)
 
 ---
 ## Theory :book:
@@ -55,5 +55,5 @@
 
 ---
 ## Exercises :running:
-- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Exercises/E01_gradient_descent.ipynb)
+- [Gradient descent](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Exercises/E01_gradient_descent.ipynb)
 Work with the lab

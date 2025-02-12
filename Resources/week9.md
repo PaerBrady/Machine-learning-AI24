@@ -1,6 +1,6 @@
 # Week 15 - Resources
 
-[:house: Main page](https://github.com/kokchun/Machine-learning-AI22)
+[:house: Main page](https://github.com/kokchun/Machine-learning-AI24)
 
 This week is dedicated for 
 - reexaminations (old labs and exams in old courses) 

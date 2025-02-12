@@ -1,6 +1,6 @@
 # Week 10 - Resources
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ---
 ## Video guides :video_camera:
@@ -12,8 +12,8 @@
 
 ---
 ## Lecture notes :book:
-- [GridsearchCV](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
-- [Decision tree](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/L9-Decision_tree.ipynb)
+- [GridsearchCV](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L7-gridsearchCV.ipynb)
+- [Decision tree](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/L9-Decision_tree.ipynb)
 
 ---
 ## Theory :book:

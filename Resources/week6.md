@@ -1,6 +1,6 @@
 # Week 12 - Resources
 
-[:house: Main page](https://github.com/pr0fez/Machine-learning-AI23)
+[:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
 ---
 ## Video guides :video_camera:
@@ -9,9 +9,9 @@ Letar ersättningsvideor för Andrew Ngs videor, TBD
 ---
 ## Lecture notes :book:
 
-- [k-means lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec13-KMeans.ipynb)
-- [Color quantization with k-means lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec13.1-KMeans_color.ipynb)
-- [PCA lecture](https://github.com/pr0fez/Machine-learning-AI23/blob/main/Lecture_code/Lec14-PCA.ipynb)
+- [k-means lecture](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Lec13-KMeans.ipynb)
+- [Color quantization with k-means lecture](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Lec13.1-KMeans_color.ipynb)
+- [PCA lecture](https://github.com/pr0fez/Machine-learning-AI24/blob/main/Lecture_code/Lec14-PCA.ipynb)
 
 ---
 ## Theory :book:
