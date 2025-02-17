@@ -9,7 +9,7 @@ This is a course with focus of learning concepts in machine learning using **sci
 
 All lecture codes and exercises can be found in the course [Github repo][ghr].
 
-[ghr]: https://github.com/pr0fez/Machine-learning-AI23
+[ghr]: https://github.com/pr0fez/Machine-learning-AI24
 
 ---
 
@@ -19,15 +19,15 @@ This course mostly focuses on supervised learning, both regression and classific
 
 |   Week   | Content                                                                 |
 | :------: | ----------------------------------------------------------------------- |
-| [7][w1]  | **Regression** Linear, gradient descent, sklearn                        |
-| [8][w2]  | Polynomial, overfitting, underfitting, regularization, cross-validation |
-| [9][w3]  | **Classification:** Logistic regression, KNN                            |
-| [10][w4] | GridsearchCV, SVM, **lab**                                             |
-| [11][w5] | Descision tree, Random forest, NLP intro, Naive bayes, **lab**         |
-| [12][w6] | **Unsupervised:** K-means, PCA **lab**                                 |
-| [13][w7] | ANN intro, Repetition **lab** *feedback, komplettering*                 |
-| [14][w8] | Repetition, Exam (Friday)                                              |
-| [15][w9] | Apply for LIA, self-study, re-exams on other courses                    |
+| [8][w1]  | **Regression** Linear, gradient descent, sklearn                        |
+| [9][w2]  | Polynomial, overfitting, underfitting, regularization, cross-validation |
+| [10][w3]  | **Classification:** Logistic regression, KNN                            |
+| [11][w4] | GridsearchCV, SVM, **lab**                                             |
+| [12][w5] | Descision tree, Random forest, NLP intro, Naive bayes, **lab**         |
+| [13][w6] | **Unsupervised:** K-means, PCA **lab**                                 |
+| [14][w7] | ANN intro, Repetition **lab** *feedback, komplettering*                 |
+| [15][w8] | Repetition, Exam (Friday)                                              |
+| [16][w9] | Apply for LIA, self-study, re-exams on other courses                    |
 
 [w1]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week1.md
 [w2]: https://github.com/pr0fez/Machine-learning-AI23/blob/main/Resources/week2.md
