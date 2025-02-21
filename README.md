@@ -1,4 +1,4 @@
-# Machine learning (AI23)
+# Machine learning (AI24)
 
 This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
 
