@@ -1,4 +1,4 @@
-# Week 9 - Resources
+# Week 10 - Resources
 
 [:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 

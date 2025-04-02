@@ -1,4 +1,4 @@
-# Week 15 - Resources
+# Week 16 - Resources
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI24)
 

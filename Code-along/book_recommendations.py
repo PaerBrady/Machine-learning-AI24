@@ -45,12 +45,12 @@ def recommend(book_name, table, design_matrix, similarity_score):
         data.append(item)
     return data
 
-def main():
+def main(name):
     books, table = load_data_files()
     matrix = extract_features(table)
     model = make_model(matrix)
-    name = input("Input a book name: ")
     print(recommend(name, books, matrix, model))
 
 if __name__ == '__main__':
-    main()
+    name = input("Input a book name: ")
+    main(name)

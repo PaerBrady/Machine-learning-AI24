@@ -1,4 +1,4 @@
-# Week 8 - Resources
+# Week 9 - Resources
 
 [:house: Main page](https://github.com/kokchun/Machine-learning-AI24)
 
