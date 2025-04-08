@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Week 14 - Resources
+=======
+# Week 15 - Resources
+>>>>>>> upstream/main
 
 [:house: Main page](https://github.com/pr0fez/Machine-learning-AI24)
 
