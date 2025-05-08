@@ -9,7 +9,7 @@ import re
 # Konverterar text till titel-format och tar bort skiljetecken och extra mellanslag
 rensa_text = lambda text: " ".join(re.sub(r"[^\w\s]", " ", str(text).title()).split())
 # Rensa och strukturera kolumnerna:
-df_filmer = pd.read_csv("movies.csv").drop_duplicates("title").assign(
+df_filmer = pd.read_csv("/Users/paraugustsson/Machine-learning-AI24-1/data/movies.csv").drop_duplicates("title").assign(
     title=lambda df: df["title"].map(rensa_text),
     genres=lambda df: df["genres"].map(rensa_text),
     # Extrahera årtal från titel
@@ -18,7 +18,7 @@ df_filmer = pd.read_csv("movies.csv").drop_duplicates("title").assign(
 
 # Hämta en uppsättning engelska ord (för att filtrera bort nonsensord)
 eng_ord_set = set(words.words())
-df_taggar = pd.read_csv("tags.csv").dropna()
+df_taggar = pd.read_csv("/Users/paraugustsson/Machine-learning-AI24-1/data/tags.csv").dropna()
 
 # Rensa varje tagg och behåller bara taggar som finns i listan över engelska ord och har fler än 2 tecken
 df_taggar = df_taggar[df_taggar["tag"].map(rensa_text).str.lower().isin(eng_ord_set) & 
@@ -43,7 +43,7 @@ df_filmer = df_filmer.merge(df_taggar.groupby("movieId")["tag"].agg(" ".join).re
                             on="movieId", how="left").fillna("")# Om filmen saknas, ersätta den med en tom sträng
 
 # Omvandla timestamp till datum och beräkna genomsnittligt betyg för varje film, avrundat till 2 decimaler.
-df_betyg = pd.read_csv("ratings.csv").assign(
+df_betyg = pd.read_csv("/Users/paraugustsson/Machine-learning-AI24-1/data/ratings.csv").assign(
     datum=lambda df: pd.to_datetime(df["timestamp"], unit="s").dt.date,
     medelbetyg=lambda df: df.groupby("movieId")["rating"].transform("mean").round(2)
 )
